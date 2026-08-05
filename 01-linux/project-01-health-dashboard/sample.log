@@ -1,0 +1,10 @@
+INFO Application started
+INFO User login successful
+WARNING Disk usage is above 80%
+INFO Database connection established
+ERROR Failed to connect to Redis
+INFO Retrying connection
+WARNING Low memory detected
+ERROR Authentication failed
+INFO User logged out
+INFO Application stopped
